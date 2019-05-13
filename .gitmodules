@@ -1,0 +1,9 @@
+[submodule "sniff-ui"]
+	path = sniff-ui
+	url = https://gitlab.com/hacktival-jfml/sniff-ui.git
+[submodule "sniff-core"]
+	path = sniff-core
+	url = https://gitlab.com/hacktival-jfml/sniff-core.git
+[submodule "sniff-mock"]
+	path = sniff-mock
+	url = https://gitlab.com/hacktival-jfml/sniff-mock.git
